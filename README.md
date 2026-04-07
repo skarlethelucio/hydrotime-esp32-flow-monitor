@@ -72,8 +72,9 @@ Open your browser and go to:
 This system was designed to integrate with a mobile application developed in Android Studio for real-time monitoring.
 
 
+---
 
-
+ Developed in 2024
 
 
 Author : Ammy Lucio
